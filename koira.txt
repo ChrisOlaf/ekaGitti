@@ -1,3 +1,1 @@
-testataan koiraa
-testataan toistamiseen koiraa
-testataan toistamiseen koiraa
+oisko jo neljäs rivi
