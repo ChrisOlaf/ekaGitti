@@ -1,0 +1,2 @@
+# ekaGitti
+Repo opiskeluja varten
